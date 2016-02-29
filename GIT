@@ -1,1 +1,8 @@
 GIT NOTES
+
+  git add <file_name>
+  git push origin master
+  git commit -m 'init'
+  git remote -v [< remote controls checks >]
+  git fecth upstream git@github.com:<USERNAME>/<FILE> [< original project >]
+  git merge upstream/<BRANCHNAME> [< get possible new version from original >]
